@@ -1,4 +1,4 @@
-# nodejs-basic-api-jobportal
+# nodejs-basic-api-jwt-demo
 
 #### Setup
 
